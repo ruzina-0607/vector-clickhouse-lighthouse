@@ -1,0 +1,5 @@
+molecule==3.5.2
+molecule_docker
+docker
+ansible-lint
+yamllint
